@@ -7,8 +7,6 @@
   
   Implementation of End-to-End Speech Emotion Recognition With Gender Information  - TING-WEI SUN <br>
 
-<h3> colab link (Speech Emotion Recognition): https://colab.research.google.com/drive/19nThuiQI3VBaThCFQaXK5GDLKLlfldw6?usp=sharing </h3>
-<h3> colab link (Gender Information): https://colab.research.google.com/drive/1-fIzNBfR5lV-Mb8vBqYi4APk5FndZ3E7?usp=sharing </h3>
 <h3> Dataset: https://www.kaggle.com/uwrfkaggler/ravdess-emotional-speech-audio </h3> 
 </h2>
 
